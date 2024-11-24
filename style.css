@@ -3,6 +3,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    user-select:none ;
 }
 
 
@@ -30,6 +31,10 @@ body {
     cursor: pointer;
     padding: 10px 20px;
     transition: color 0.3s ease, background-color 0.3s ease;
+}
+
+.nav-button1{
+  color: #ffd400;
 }
 
 
@@ -76,7 +81,7 @@ body {
    gap: 12px;}
   
   .card-title {
-    font-size: 16px;
+    font-size: 20px;
     font-weight: bold;
     margin: 0;
     color: #000;
@@ -97,7 +102,11 @@ body {
 
 .forday2 , .forday1 ,.forday3{
     padding-bottom: 35px;
-    padding-top: 103px;
+    padding-top: 23px;
+}
+
+.forday1{
+  color: #ffd400;
 }
   .card-footer {
     font-size: 12px;

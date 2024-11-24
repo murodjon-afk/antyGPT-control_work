@@ -7,11 +7,8 @@ export function createTodosDay(item) {
     const navBtn2 =document.querySelector('.nav-button2')
     const card = document.createElement('div');
     const forday1 = document.querySelector('.forday1')
-    const forday2 = document.querySelector('.forday2')
-    const forday3 = document.querySelector('.forday4')
     const tomorrowParent = document.querySelector('.tomorrows')
     const latersParent = document.querySelector('.Laters')
-    const forDayParent = document.querySelector('.for-to-day')
     card.className = 'card';
 
 
@@ -33,7 +30,7 @@ export function createTodosDay(item) {
   
     const cardTitle = document.createElement('h3');
     cardTitle.className = 'card-title';
-    cardTitle.textContent = 'Todo Item';
+    cardTitle.textContent = 'Buy S Plaid!';
 
 
     const cardDescription = document.createElement('p');

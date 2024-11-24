@@ -4,7 +4,7 @@
       "userId": 1,
       "id": "1",
       "title": "delectus aut autem",
-      "completed": false,
+      "completed": true,
       "left": 12
     },
     {
@@ -32,28 +32,28 @@
       "userId": 1,
       "id": "5",
       "title": "laboriosam mollitia et enim quasi adipisci quia provident illum",
-      "completed": false,
+      "completed": true,
       "left": 22
     },
     {
       "userId": 1,
       "id": "6",
       "title": "qui ullam ratione quibusdam voluptatem quia omnis",
-      "completed": false,
+      "completed": true,
       "left": 21
     },
     {
       "userId": 1,
       "id": "7",
       "title": "illo expedita consequatur quia in",
-      "completed": false,
+      "completed": true,
       "left": 4
     },
     {
       "userId": 1,
       "id": "8",
       "title": "et doloremque nulla",
-      "completed": false,
+      "completed": true,
       "left": 3
     },
     {
@@ -88,7 +88,7 @@
       "userId": 1,
       "id": "13",
       "title": "dolorum est consequatur ea mollitia in culpa",
-      "completed": false,
+      "completed": true,
       "left": 2
     },
     {
@@ -123,14 +123,14 @@
       "userId": 2,
       "id": "18",
       "title": "et itaque necessitatibus maxime molestiae qui quas velit",
-      "completed": false,
+      "completed": true,
       "left": 1
     },
     {
       "userId": 2,
       "id": "19",
       "title": "adipisci non ad dicta qui amet quaerat doloribus ea",
-      "completed": false,
+      "completed": true,
       "left": 23
     },
     {
@@ -158,14 +158,14 @@
       "userId": 2,
       "id": "23",
       "title": "nesciunt totam sit blanditiis sit",
-      "completed": false,
+      "completed": true,
       "left": 12
     },
     {
       "userId": 2,
       "id": "24",
       "title": "laborum aut in quam",
-      "completed": false,
+      "completed": true,
       "left": 6
     },
     {
